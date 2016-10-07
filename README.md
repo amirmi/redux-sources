@@ -1,7 +1,2 @@
-# application-core
-
-This repo contains some common code that can be used by React-oriented Origami projects.
-
-```
-npm run build
-```
+# redux-sources
+Synthetic Sugar for consistently handling Ajax Calls in an async Redux Flow.
