@@ -82,4 +82,3 @@ nose2-junit.xml
 origami/origami/apps/account/saml/certs
 #NewRelic
 local_newrelic.ini
-lib
